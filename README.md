@@ -1,7 +1,4 @@
 # Principles-of-Data-Science-Project
-Steps for running the code scripts.
-
-
 File Name and Description
 
 1. van.csv - Original data set
