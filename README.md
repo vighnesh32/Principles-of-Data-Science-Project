@@ -7,6 +7,6 @@
 3. report.pdf - Project report.
 
 
-#### Sequence of running the codes:
+#### Sequence for running the codes:
 
 1. Open and run the file project.ipynb for visualization, training and testing the models.
